@@ -10,6 +10,7 @@ const TodoList = (props) => {
         props.setInput(todo);
         console.log(todo);
         setTodo("");}
+        
     }
 
 
